@@ -24,4 +24,4 @@ https://www.dreamstime.com/abstract-word-collage-background-covid-word-cloud-con
 3. For the selected word, project the corresponding tweets as per the user desire
 
 ## App frontend
-<TBD>
+In learning phase.TBD!!! 
