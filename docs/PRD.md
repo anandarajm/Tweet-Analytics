@@ -19,7 +19,7 @@
 1. Similar to twitter trend, provide trend of top 10 or 20 words from the user timeline
 2. Create a simple visualization of all the top words from the analyzed day of visualization similar to the below picture (word cloud or word collage)
 
-https://www.dreamstime.com/abstract-word-collage-background-covid-word-cloud-concept-illustration-beautiful-text-art-wallpaper-covid-purple-word-cloud-purple-image175825309
+https://image.shutterstock.com/image-vector/word-cloud-concept-words-related-260nw-362513237.jpg
 
 3. For the selected word, project the corresponding tweets as per the user desire
 
