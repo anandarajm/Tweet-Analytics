@@ -1,4 +1,4 @@
-## The basics
+## Data collection
 1. Collect username and password from user, store it safely
 2. Login to twitter and collect the tweets from timeline
 3. Bucket the tweets based ont he given day say 1/1/2020, 1/2/2020
@@ -23,5 +23,5 @@ https://image.shutterstock.com/image-vector/word-cloud-concept-words-related-260
 
 3. For the selected word, project the corresponding tweets as per the user desire
 
-## App frontend
-In learning phase.TBD!!! 
+## Frontend
+No plans yet. 
